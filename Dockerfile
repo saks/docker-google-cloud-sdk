@@ -1,4 +1,4 @@
-FROM debian:wheezy
+FROM saksmlz/docker-ruby
 
 ENV DEBIAN_FRONTEND noninteractive
 ENV CLOUDSDK_PYTHON_SITEPACKAGES 1
